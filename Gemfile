@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails'
+gem 'bootstrap-sass'
+gem 'rails-controller-testing'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
